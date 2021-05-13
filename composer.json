@@ -1,7 +1,6 @@
 {
     "name": "eth-tp6/tron-api-tp6",
     "description": "波场的php的sdk",
-    "license": "Apache",
     "type":   "library",
     "authors": [
         {
