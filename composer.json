@@ -1,0 +1,22 @@
+{
+    "name": "eth-tp6/tron-api-tp6",
+    "description": "波场的php的sdk",
+    "license": "Apache",
+    "type":   "library",
+    "authors": [
+        {
+            "name": "谭庭超",
+            "email": "1002335644@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ETHtp6\\": "src/"
+        }
+    }
+}
